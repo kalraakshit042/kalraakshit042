@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Akshit 👋
 
-<!--
-**kalraakshit042/kalraakshit042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I care about the gap between what AI models can do and what is actually useful in production. Most AI products do not fail because the model is weak. They fail because the system is unreliable, edge cases were ignored, or nobody planned for what happens when the model is wrong.
 
-Here are some ideas to get you started:
+**Right now:** AI Product Manager at **Ikigai Labs** (backed by Khosla Ventures), building forecasting systems for enterprise supply chains where predictions feed directly into procurement decisions and errors can mean millions in misallocated inventory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Previously:** Built distributed risk analytics platform at Goldman Sachs. Traders would not act on a number they could not interrogate. Latency mattered. Accuracy mattered. Explainability mattered just as much.
+
+Wharton MBA '26 | IIT Roorkee CS
+
+🔨 **Side projects — each one taught me something different about building with AI:**
+
+- [Chess Coach](https://github.com/kalraakshit042/chess-coach) — Engines calculate positions but cannot explain them. Large language models can explain ideas but hallucinate evaluations. I built a hybrid system where the hard part is deciding which one to trust at each step.
+
+- [Startup Research](https://github.com/kalraakshit042/startup-research) — 10 web sources into one coherent brief in 90 seconds. The real problem is not retrieval. It is getting the model to synthesize with appropriate uncertainty instead of presenting everything as fact.
+
+- [AI Compass](https://github.com/kalraakshit042/ai-compass) — Describe your use case, get model recommendations with cost estimates. Same recommendation engine, but different interfaces required different guardrails — web app for users, MCP server for AI clients.
+
+📫 [akshitkalra.com](https://akshitkalra.com) · [LinkedIn](https://linkedin.com/in/akshit-kalra-9aa570146/)
