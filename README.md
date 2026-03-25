@@ -1,6 +1,6 @@
 ### Hey, I'm Akshit 👋
 
-I care about the gap between what AI models can do and what is actually useful in production. Most AI products do not fail because the model is weak. They fail because the system is unreliable, edge cases were ignored, or nobody planned for what happens when the model is wrong.
+I’m interested in what it takes to make AI actually work in production. The model is usually the easy part. The hard part is building something reliable enough that people can trust it when the stakes are real.
 
 **Right now:** AI Product Manager at **Ikigai Labs** (backed by Khosla Ventures), building forecasting systems for enterprise supply chains where predictions feed directly into procurement decisions and errors can mean millions in misallocated inventory.
 
