@@ -6,7 +6,7 @@ I care about the gap between what AI models can do and what is actually useful i
 
 **Previously:** Built distributed risk analytics platform at Goldman Sachs. Traders would not act on a number they could not interrogate. Latency mattered. Accuracy mattered. Explainability mattered just as much.
 
-Wharton MBA '26 | IIT Roorkee CS
+**Wharton MBA '26 | IIT Roorkee CS**
 
 🔨 **Side projects — each one taught me something different about building with AI:**
 
