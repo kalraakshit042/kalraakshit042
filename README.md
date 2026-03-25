@@ -10,10 +10,10 @@ Wharton MBA '26 | IIT Roorkee CS
 
 🔨 **Side projects — each one taught me something different about building with AI:**
 
+- [AI Compass](https://github.com/kalraakshit042/ai-compass) — Describe your use case, get model recommendations with cost estimates. Same recommendation engine, but different interfaces required different guardrails — web app for users, MCP server for AI clients.
+
 - [Chess Coach](https://github.com/kalraakshit042/chess-coach) — Engines calculate positions but cannot explain them. Large language models can explain ideas but hallucinate evaluations. I built a hybrid system where the hard part is deciding which one to trust at each step.
 
 - [Startup Research](https://github.com/kalraakshit042/startup-research) — 10 web sources into one coherent brief in 90 seconds. The real problem is not retrieval. It is getting the model to synthesize with appropriate uncertainty instead of presenting everything as fact.
-
-- [AI Compass](https://github.com/kalraakshit042/ai-compass) — Describe your use case, get model recommendations with cost estimates. Same recommendation engine, but different interfaces required different guardrails — web app for users, MCP server for AI clients.
 
 📫 [akshitkalra.com](https://akshitkalra.com) · [LinkedIn](https://linkedin.com/in/akshit-kalra-9aa570146/)
