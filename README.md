@@ -1,10 +1,12 @@
 ### Hey, I'm Akshit 👋
 
-I’m interested in what it takes to make AI actually work in production. The model is usually the easy part. The hard part is building something reliable enough that people can trust it when the stakes are real.
+I care about what it takes to make AI actually work in production. The model is usually the easy part. The hard part is building something reliable enough that people can trust it when the stakes are real.
 
-**Right now:** AI Product Manager at **Ikigai Labs** (backed by Khosla Ventures), building forecasting systems for enterprise supply chains where predictions feed directly into procurement decisions and errors can mean millions in misallocated inventory.
+Most of my prior work lived in private internal systems, so this GitHub is where I started building in public during my Wharton MBA.
 
-**Previously:** Built distributed risk analytics platform at Goldman Sachs. Traders would not act on a number they could not interrogate. Latency mattered. Accuracy mattered. Explainability mattered just as much.
+**Right now:** AI Product Manager at **Ikigai Labs** (backed by Khosla Ventures), building forecasting systems for enterprise supply chains where predictions feed directly into procurement decisions, and errors can mean millions in misallocated inventory.
+
+**Previously:** Built a distributed risk analytics platform at Goldman Sachs. Traders would not act on a number they could not interrogate. Latency mattered. Accuracy mattered. Explainability mattered just as much.
 
 **Wharton MBA '26 | IIT Roorkee CS**
 
